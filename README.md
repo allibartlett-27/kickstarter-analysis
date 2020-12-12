@@ -7,7 +7,8 @@ The purpose of this project was to show Louise how different campaigns performed
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
-I performed the analysis by creating a pivot table based on the Kickstarter data set. I filtered the table by outcomes and launch date to show which theater productions were successful, failed or canceled by months across multiple years.  
+I performed the analysis by creating a pivot table based on the Kickstarter data set. I filtered the table by outcomes and launch date to show which theater productions were successful, failed or canceled by months across multiple years. 
+[Outcomes Based on Launch Date](https://github.com/allibartlett-27/kickstarter-analysis/blob/main/Outcomes%20Based%20on%20Launch%20Date.png)
 
 ### Analysis of Outcomes Based on Goals
 I performed the analysis by creating new table and the CountIf formula to only show successful, failed or canceled productions based on their goals. 

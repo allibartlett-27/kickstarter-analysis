@@ -7,4 +7,4 @@ The purpose of this project was to show Louise how different campaigns performed
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
-![Theater_Outcomes_vs_Launch]
+![Theater_Outcomes_vs_Launch](This PC/Desktop/Bootcamp Files/Resources/Theater_Outcomes_vs_Launch.png) 
